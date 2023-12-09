@@ -6,6 +6,8 @@ The motivation behind this endeavor stems from the prevalence of unstructured te
 By creating an innovative sentiment analysis tool with a meter interface, this project seeks to revolutionize how textual data is understood and utilized in decision-making processes, offering a more comprehensive and nuanced approach to sentiment analysis and categorization.
 
 Datsets are from kaggle:
+
 https://www.kaggle.com/datasets/kazanova/sentiment140
+
 https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data
 
